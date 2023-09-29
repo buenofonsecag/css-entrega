@@ -1,0 +1,30 @@
+.divA{
+    width: 290px ;
+    height:600px;
+    background-color: rgb(17, 0, 80);
+}
+.divB{
+    background-color: rgb(255, 199, 199);
+     height: 90%;
+     width: 80%;
+}
+.paragrafo{
+    color: rgb(238, 255, 4);
+     background-color:rgb(86, 255, 235);
+     font-size: 30px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-weight: bold;
+
+}
+.divD{
+    width: 75%;
+    height:80vh;
+    background-color: rgb(0, 20, 121);
+
+}
+.divE{
+width: 60vw;
+height: 30vh;
+background-color:rgb(163, 0, 54);
+
+}
